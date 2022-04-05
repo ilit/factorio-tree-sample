@@ -1,0 +1,12 @@
+{
+	"name": "aaa-tree-sample-dev-project",
+	"version": "0.0.0",
+	"title": "Tree Sample Dev Project",
+	"author": "Author",
+	"dependencies": [
+		"base >= 1.1.0"
+	],
+	"description": "Description",
+	"factorio_version": "1.1",
+	"homepage": "https://youtu.be/ub82Xb1C8os"
+}
